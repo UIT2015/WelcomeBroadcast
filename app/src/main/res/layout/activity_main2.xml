@@ -17,11 +17,4 @@
         android:layout_weight="1"
         android:text="合成"/>
 
-    <Button
-        android:id="@+id/jump"
-        android:layout_width="match_parent"
-        android:layout_height="0dp"
-        android:layout_weight="1"
-        android:text="跳转"/>
-
 </LinearLayout>

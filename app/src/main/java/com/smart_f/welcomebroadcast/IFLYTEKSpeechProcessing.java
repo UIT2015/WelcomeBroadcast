@@ -14,6 +14,7 @@ import com.iflytek.cloud.SynthesizerListener;
 import com.iflytek.cloud.util.ResourceUtil;
 
 /**
+ * 讯飞语音合成实现类
  * Created by chenxi on 2018/1/27.
  */
 
